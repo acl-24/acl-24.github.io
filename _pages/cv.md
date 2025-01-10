@@ -16,7 +16,7 @@ Education
 
 Experience
 ======
-* Dec 2024: Software Co-op Work Experience Student
+* Dec 2023: Software Co-op Work Experience Student
   * Imagination Centre
   * ML and software for rehabilitational brain-computer interface
 
