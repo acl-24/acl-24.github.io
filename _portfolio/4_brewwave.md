@@ -19,7 +19,7 @@ Users make selections through a **motor imagery EEG paradigm** — imagining a p
 3. Clinical software classifies the motor imagery and maps it to a **keyboard keystroke**
 4. BrewWave intercepts the keystroke to navigate categories, select a station, and control playback
 
-## What I built
+## Development Details
 
 As lead, I scoped the project around real clinical constraints and drove full-stack development across the team:
 

@@ -16,30 +16,60 @@ Education
 
 Experience
 ======
-* May 2025: Graduate Research Assistant Fellowship
-  * Amii, University of Alberta
-  * VR and ML for upper limb prosthetic robotics
+<div style="display:flex; gap:12px; margin-bottom:16px;">
+  <img src="/images/amii_logo.jpg" width="60" style="border-radius:4px; object-fit:contain;"/>
+  <div>
+    <strong>May 2025 · Graduate Research Assistant Fellowship</strong><br/>
+    Amii, University of Alberta<br/>
+    VR and ML for upper limb prosthetic robotics
+  </div>
+</div>
 
-* Dec 2023: Software Co-op Work Experience Student
-  * Imagination Centre
-  * ML and software for rehabilitational brain-computer interface
+<div style="display:flex; gap:12px; margin-bottom:16px;">
+  <img src="/images/AHS-logo.webp" width="60" style="border-radius:4px; object-fit:contain;"/>
+  <div>
+    <strong>Dec 2023 · Software Co-op Work Experience Student</strong><br/>
+    Imagination Centre<br/>
+    ML and software for rehabilitational brain-computer interface
+  </div>
+</div>
 
-* Dec 2022: Research Assistant
-  * University of Alberta
-  * NLP for analyzing High Entropy Alloy research articles
-  * Received the Outstanding Research Performance
+<div style="display:flex; gap:12px; margin-bottom:16px;">
+  <img src="/images/uofa-eng-logo.jpeg" width="60" style="border-radius:4px; object-fit:contain;"/>
+  <div>
+    <strong>Dec 2022 · Research Assistant</strong><br/>
+    University of Alberta<br/>
+    NLP for analyzing High Entropy Alloy research articles<br/>
+    Received the Outstanding Research Performance
+  </div>
+</div>
 
-* Aug 2022: Engineering Co-op Student
-  * ATCO
-  * Geographical information system data for electricity distribution in Alberta
+<div style="display:flex; gap:12px; margin-bottom:16px;">
+  <img src="/images/atco-logo.webp" width="60" style="border-radius:4px; object-fit:contain;"/>
+  <div>
+    <strong>Aug 2022 · Engineering Co-op Student</strong><br/>
+    ATCO<br/>
+    Geographical information system data for electricity distribution in Alberta
+  </div>
+</div>
 
-* Aug 2021: Full-stack Developer
-  * Techmate Labs
-  * Designed and programmed inventory management system and streaming API for an online auction website
+<div style="display:flex; gap:12px; margin-bottom:16px;">
+  <img src="/images/techmate_labs_logo.jpeg" width="60" style="border-radius:4px; object-fit:contain;"/>
+  <div>
+    <strong>Aug 2021 · Full-stack Developer</strong><br/>
+    Techmate Labs<br/>
+    Designed and programmed inventory management system and streaming API for an online auction website
+  </div>
+</div>
 
-* Aug 2018: Research Assistant
-  * University of Alberta
-  * Research on medical genetics; performed DNA purification and Co-IP
+<div style="display:flex; gap:12px; margin-bottom:16px;">
+  <img src="/images/uofa-med-logo.png" width="60" style="border-radius:4px; object-fit:contain;"/>
+  <div>
+    <strong>Aug 2018 · Research Assistant</strong><br/>
+    University of Alberta<br/>
+    Research on medical genetics; performed DNA purification and Co-IP
+  </div>
+</div>
   
 Skills
 ======

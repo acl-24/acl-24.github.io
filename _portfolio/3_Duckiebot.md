@@ -1,6 +1,6 @@
 ---
 title: "DuckieBot: Autonomous Robot Navigation"
-excerpt: "ROS Development, Kinematics, Computer Vision & Controllers <br/><img src='/images/e4.png'>"
+excerpt: "ROS Development, Computer Vision, PID Controls <br/><img src='/images/e4.png'>"
 collection: portfolio
 ---
 
@@ -14,12 +14,9 @@ I built and deployed **ROS nodes** on real hardware: starting with low-level whe
 
 ## Kinematics
 
-- Drove the robot **forward and backward 1.25 m** using wheel encoder odometry, with throttle-based calibration to compensate for hardware asymmetry [[video]](https://youtube.com/shorts/M6-FEvGpWSU)
-- Achieved **in-place 90° rotation** by reversing one wheel relative to the other [[video]](https://youtube.com/shorts/sWfWMmzjZek)
 - Traced a **"D"-shaped path** with LED state signalling across three motion phases [[video]](https://youtube.com/shorts/bexmIOBJRnc)
 - Recorded and plotted odometry from ROS bags to analyze real vs. intended trajectory
 
-![Drive straight graph](/images/drive_straight_graph.png)
 ![D-shape graph](/images/drive_d_graph.png)
 
 **Demos:** [Reverse parking](https://youtube.com/shorts/2WlWNV9-NcE) · [Drive square](https://youtu.be/RDrlkbg8hO0)

@@ -1,6 +1,6 @@
 ---
 title: "Game Level Blending with User Input"
-excerpt: "Text-Prompted Game Level Generation & Blending <br/><img src='/images/level_generation_highres.png'>"
+excerpt: "Procedural Content Generation, Mixture of Experts <br/><img src='/images/level_generation_highres.png'>"
 collection: portfolio
 ---
 
